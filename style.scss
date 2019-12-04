@@ -29,10 +29,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    // position: relative;
     width: 100vw;
     height: 100vh;
-    // border: 1px solid greenyellow;
 }
 
 .close-icon {
@@ -57,8 +55,6 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    // align-items: center;
-    // border: 1px solid red;
     width: 87.5%;
     height: 392px;
 }
@@ -74,7 +70,6 @@ h1 {
     flex-direction: column;
     justify-content: space-between;
     height: 40%;
-    // border: 1px solid greenyellow;
 }
 
 .button-box {
@@ -93,7 +88,6 @@ h1 {
 
 .benefit {
     width: 40%;
-    // border: 1px solid black;
     color: #ee334b;
     font-size: 14px;
     font-weight: 400;
@@ -126,7 +120,6 @@ h1 {
     height: 57%;
     background: linear-gradient(270deg, #FF588E, #F5244D);
     border-radius: 45px;
-    // border: 1px solid green;
 
     p {
         font-size: 14px;
@@ -137,7 +130,6 @@ h1 {
 }
 
 .access {
-    // border: 1px solid blue;
     width: 62%;
     margin: 0 auto;
     font-family: 'SFProDisplay-Bold', sans-serif;
@@ -174,7 +166,6 @@ h1 {
      width: 100%;
      height: 5vh;
      background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0.1) 100%);
-    //  border: 1px solid green;
      bottom: 0;
      left: 0;
  }
