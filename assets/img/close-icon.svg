@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <g id="close-icon">
+    <path d="M0.999 0L19.001 0C19.5527 0 20 0.447268 20 0.999L20 1.001C20 1.55273 19.5527 2 19.001 2L0.999 2C0.447268 2 0 1.55273 0 1.001L0 0.999C0 0.447268 0.447268 0 0.999 0Z" transform="matrix(0.7071068 0.7071068 -0.7071068 0.7071068 1.414307 0)" id="Rectangle-4" fill="#D1D1D6" stroke="none" />
+    <path d="M0.999 0L19.001 0C19.5527 0 20 0.447268 20 0.999L20 1.001C20 1.55273 19.5527 2 19.001 2L0.999 2C0.447268 2 0 1.55273 0 1.001L0 0.999C0 0.447268 0.447268 0 0.999 0Z" transform="matrix(-0.7071067 0.7071068 0.7071068 0.7071067 14.14209 0)" id="Rectangle-4" fill="#D1D1D6" stroke="none" />
+  </g>
+</svg>
